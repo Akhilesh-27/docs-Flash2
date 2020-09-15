@@ -1,0 +1,23 @@
+img{
+  background-color: yellow;
+  background-position: center;
+}
+
+img:hover{
+  /*background-color: black;
+  background-position: center; */
+  background-image: url("https://i.pinimg.com/originals/ba/4d/09/ba4d09202d350f6ec3665662fb0971ed.jpg");
+}
+
+h1,p{
+  font-size: 50px;
+  color:red;
+}
+
+h1:hover{
+  color:gold;
+}
+
+p:hover{
+  color:black;
+}
